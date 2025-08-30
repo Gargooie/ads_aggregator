@@ -1,0 +1,2 @@
+[console_scripts]
+ads-aggregator = ads_aggregator.cli:main
